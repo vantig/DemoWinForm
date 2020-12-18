@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSimpleControls", "DemoSimpleControls\DemoSimpleControls.csproj", "{5A0B557A-D1AD-464F-BADF-01FD25120D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStationWindowsFormsApp", "WindowsFormsApp\GasStationWindowsFormsApp.csproj", "{928CD474-4719-4B07-98BC-73F35942D7FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0B557A-D1AD-464F-BADF-01FD25120D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0B557A-D1AD-464F-BADF-01FD25120D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0B557A-D1AD-464F-BADF-01FD25120D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0B557A-D1AD-464F-BADF-01FD25120D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928CD474-4719-4B07-98BC-73F35942D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928CD474-4719-4B07-98BC-73F35942D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928CD474-4719-4B07-98BC-73F35942D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928CD474-4719-4B07-98BC-73F35942D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBDCBD0-87F9-4B8D-8733-D181B8F3A6C2}
+	EndGlobalSection
+EndGlobal
