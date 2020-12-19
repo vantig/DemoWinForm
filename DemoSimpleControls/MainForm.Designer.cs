@@ -185,6 +185,7 @@
             this.checkBox2.TabIndex = 9;
             this.checkBox2.Text = "LINQ";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
             // checkBox3
             // 
